@@ -40,11 +40,9 @@ li {
 
 .jumbotron {
   float: left;
-  padding-left: 200px;
+  margin-left: 200px;
   background-color: #eaecef;
-
-
-}
+  }
 
 .container2 {
   float: left;
@@ -52,5 +50,5 @@ li {
 }
 
 .nav-tabs {
-  padding-left: 120px;
+  margin-left: 120px;
   }
