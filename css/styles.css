@@ -4,7 +4,6 @@
   font-size: 12px;
   padding-right: 170px;
   height: 100%;
-
 }
 
 li {
@@ -28,7 +27,7 @@ li {
   float: right;
 }
 
-.panel-body {
+.well-sm {
   position: fixed;
   background-color: #eaecef;
   width: 170px;
@@ -39,9 +38,11 @@ li {
   border: 10px solid #eaecef;
 }
 
-.container1 {
+.jumbotron {
   float: left;
   padding-left: 200px;
+  background-color: #eaecef;
+
 
 }
 
