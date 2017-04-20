@@ -18,3 +18,7 @@ li {
 #bold {
   font-weight: bold;
 }
+
+.navbar-text {
+  float: right;
+}
