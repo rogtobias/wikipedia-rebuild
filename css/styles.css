@@ -4,6 +4,7 @@
   font-size: 12px;
   border: 2px solid green;
   padding-right: 170px;
+  height: 100%;
 
 }
 
@@ -21,4 +22,16 @@ li {
 
 .navbar-text {
   float: right;
+}
+
+
+.panel-body {
+  position: fixed;
+  background-color: red;
+  width: 170px;
+}
+
+.container2 {
+  float: left;
+  padding-left: 200px;
 }
